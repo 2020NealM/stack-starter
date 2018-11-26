@@ -1,5 +1,5 @@
 /**
- * Class that implements to the StackInterface interface.
+ * Class that implements the StackInterface interface.
  * 
  * @author Michael Ida
  *
